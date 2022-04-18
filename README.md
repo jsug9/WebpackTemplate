@@ -2,12 +2,12 @@
 
 # project-name
 
-> In this project I build a mobile and desktop version of a website, using what I learned in HTML and CSS.
+> In this project I build a mobile and desktop version of a website, using what I learned in JavaScript, HTML and SCSS.
 
 ## Built With
 
 - HTML
-- CSS
+- SCSS
 - JavaScript
 
 ## Live Demo
